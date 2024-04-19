@@ -3,6 +3,5 @@
 loan repayment probabilities.
 2.Conducted data mining on 21 financial indicators, significantly enhancing the accuracy of
 creditworthiness evaluations.
-
 3.Demonstrated proficiency in utilizing Jupyter Notebook for data analysis and machine learning
 model development.
